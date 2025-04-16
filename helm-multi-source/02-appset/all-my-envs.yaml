@@ -39,6 +39,7 @@ spec:
         version: qa
       - env: integration-non-gpu
         region: us
+        type: non-prod
         version: qa
   template:      
     metadata:
